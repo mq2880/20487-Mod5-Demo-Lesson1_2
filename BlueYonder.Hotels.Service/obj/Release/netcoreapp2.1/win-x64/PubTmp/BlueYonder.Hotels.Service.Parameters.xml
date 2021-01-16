@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="HotelsSite" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\20487C\\Demo\\Demo5Lesson1_2\\BlueYonder\.Hotels\.Service\\obj\\Release\\netcoreapp2\.1\\win-x64\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
